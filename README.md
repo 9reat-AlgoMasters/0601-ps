@@ -1,5 +1,5 @@
 # 0601 Problem Solving
-- platform : Programmers
+- platform : BOJ
 
 # Schedule
 - date : 2023.08.05(토)
